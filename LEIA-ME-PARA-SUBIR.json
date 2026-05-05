@@ -1,0 +1,10 @@
+{
+  "principal_para_subir": [
+    "index.html"
+  ],
+  "opcional": [
+    "assets/",
+    "relatorio-final-fotos-rodape.json"
+  ],
+  "observacao": "O index.html atual contém imagens embutidas em base64, então ele abre sozinho. A pasta assets foi incluída para segurança e uso futuro."
+}
