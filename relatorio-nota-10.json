@@ -1,0 +1,92 @@
+{
+  "qa": {
+    "versao": "nota_10",
+    "h1_count": 1,
+    "sections": 10,
+    "gallery_photos": 6,
+    "videos": [
+      "https://www.youtube.com/embed/4FVV3zvfLdQ",
+      "https://www.youtube.com/embed/NuqL2v01qxs"
+    ],
+    "padre_primeiro": true,
+    "ga4_installed": true,
+    "ga4_events": true,
+    "faq_schema": true,
+    "favicon": true,
+    "manifest": true,
+    "images_extracted_to_assets": 11,
+    "base64_remaining": 0,
+    "duplicate_ids": [],
+    "bad_anchor_links": [],
+    "whatsapp_links": 6,
+    "html_kb": 29.2
+  },
+  "image_conversion": [
+    {
+      "src": "assets/logo-3d-art-osasco-6d63337ca0.png",
+      "before_kb": 1898.0,
+      "after_kb": 1898.0,
+      "converted_webp": false
+    },
+    {
+      "src": "assets/foto-boneco-3d-art-01-624c83fd88.webp",
+      "before_kb": 242.4,
+      "after_kb": 122.5,
+      "converted_webp": true
+    },
+    {
+      "src": "assets/foto-boneco-3d-art-02-624c83fd88.webp",
+      "before_kb": 242.4,
+      "after_kb": 122.5,
+      "converted_webp": true
+    },
+    {
+      "src": "assets/foto-boneco-3d-art-03-48993d9496.webp",
+      "before_kb": 246.5,
+      "after_kb": 176.3,
+      "converted_webp": true
+    },
+    {
+      "src": "assets/foto-boneco-3d-art-04-4312505aa3.webp",
+      "before_kb": 232.7,
+      "after_kb": 125.9,
+      "converted_webp": true
+    },
+    {
+      "src": "assets/foto-boneco-3d-art-05-acbf46476c.webp",
+      "before_kb": 135.1,
+      "after_kb": 96.4,
+      "converted_webp": true
+    },
+    {
+      "src": "assets/foto-boneco-3d-art-06-7dcca371a7.webp",
+      "before_kb": 699.0,
+      "after_kb": 156.3,
+      "converted_webp": true
+    },
+    {
+      "src": "assets/foto-boneco-3d-art-07-02a991d125.webp",
+      "before_kb": 212.0,
+      "after_kb": 145.7,
+      "converted_webp": true
+    },
+    {
+      "src": "assets/foto-boneco-3d-art-08-36fd88671f.webp",
+      "before_kb": 151.2,
+      "after_kb": 119.6,
+      "converted_webp": true
+    },
+    {
+      "src": "assets/foto-boneco-3d-art-09-470a4bac6b.webp",
+      "before_kb": 53.5,
+      "after_kb": 33.8,
+      "converted_webp": true
+    },
+    {
+      "src": "assets/logo-3d-art-osasco-6d63337ca0.png",
+      "before_kb": 1898.0,
+      "after_kb": 1898.0,
+      "converted_webp": false
+    }
+  ]
+}
