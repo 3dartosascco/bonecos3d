@@ -1,0 +1,33 @@
+{
+  "projeto": "3D Art Osasco",
+  "dominio_final": "https://www.3dartosasco.com.br/",
+  "github_pages": {
+    "CNAME": "www.3dartosasco.com.br",
+    "nojekyll": true,
+    "custom_domain": "www.3dartosasco.com.br",
+    "enforce_https": "Ativar somente depois que o GitHub emitir o certificado sem erro."
+  },
+  "google_analytics_4": {
+    "measurement_id_instalado": "G-S31WXZSZ25",
+    "observacao": "Foi usado o ID do script enviado pelo usuário. Conferir no GA4 se o ID correto é este."
+  },
+  "google_search_console": {
+    "tipo": "DNS TXT",
+    "dominio": "3dartosasco.com.br",
+    "host_nome": "@ ou vazio, dependendo do provedor DNS",
+    "valor_txt": "google-site-verification=0TXg0vH7xFDc-b03_AS9pzr18RImY2ZaWVrRO924-e0"
+  },
+  "seo_tecnico": {
+    "canonical": "https://www.3dartosasco.com.br/",
+    "robots": "index, follow, max-image-preview:large",
+    "sitemap": "https://www.3dartosasco.com.br/sitemap.xml",
+    "og_url": "https://www.3dartosasco.com.br/"
+  },
+  "qa_realizado": [
+    "Carrossel reduzido para 6 cards/imagens.",
+    "Vídeos mantidos em 2 embeds do YouTube, com o vídeo do padre como primeiro.",
+    "Imagens base64 removidas dos src das tags img e substituídas por arquivos em assets.",
+    "og:image removido de base64 e substituído por URL absoluta.",
+    "CNAME e .nojekyll criados na raiz."
+  ]
+}
