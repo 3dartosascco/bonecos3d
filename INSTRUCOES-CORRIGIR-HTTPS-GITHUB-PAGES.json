@@ -1,0 +1,38 @@
+{
+  "problema_identificado": "NET::ERR_CERT_COMMON_NAME_INVALID indica que o certificado HTTPS apresentado não corresponde ao domínio www.3dartosasco.com.br. Isso normalmente é erro de configuração de domínio/DNS/Pages, não erro do HTML.",
+  "arquivos_criados": {
+    "CNAME": "Obrigatório para GitHub Pages reconhecer o domínio customizado www.3dartosasco.com.br.",
+    ".nojekyll": "Evita processamento Jekyll e ajuda o GitHub Pages a publicar arquivos estáticos sem interferência.",
+    "robots.txt": "Libera indexação e aponta para o sitemap.",
+    "sitemap.xml": "Mapa do site com o domínio final."
+  },
+  "subir_na_raiz_do_repositorio": [
+    "index.html",
+    "CNAME",
+    ".nojekyll",
+    "robots.txt",
+    "sitemap.xml",
+    "assets/ se desejar manter arquivos de imagem de segurança"
+  ],
+  "configuracao_github_pages": [
+    "Settings > Pages",
+    "Custom domain: www.3dartosasco.com.br",
+    "Salvar",
+    "Aguardar o DNS check ficar correto",
+    "Marcar Enforce HTTPS apenas depois que o certificado estiver emitido/ativo"
+  ],
+  "dns_recomendado_para_www": [
+    "Tipo: CNAME",
+    "Nome/Host: www",
+    "Valor/Destino: SEU-USUARIO.github.io",
+    "Observação: substitua SEU-USUARIO pelo usuário/organização real do GitHub que hospeda o Pages"
+  ],
+  "se_for_usar_dominio_sem_www": [
+    "Configurar redirecionamento do domínio raiz 3dartosasco.com.br para www.3dartosasco.com.br no provedor de domínio/hospedagem",
+    "Ou configurar os registros A do apex conforme documentação oficial do GitHub Pages"
+  ],
+  "google_search_console": [
+    "Depois do HTTPS funcionar, cadastrar https://www.3dartosasco.com.br/",
+    "Enviar sitemap: https://www.3dartosasco.com.br/sitemap.xml"
+  ]
+}
