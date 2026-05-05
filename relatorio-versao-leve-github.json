@@ -1,0 +1,66 @@
+{
+  "qa": {
+    "versao": "final_leve_github",
+    "html_kb": 42.1,
+    "assets_count": 8,
+    "assets_total_kb": 4565.7,
+    "base64_restante": 0,
+    "galeria_cards": 3,
+    "galeria_imagens": 3,
+    "youtube_iframes": 1,
+    "usa_so_video_padre": true,
+    "ga4_presente": true,
+    "search_console_presente": true,
+    "cname": "www.3dartosasco.com.br"
+  },
+  "imagens_extraidas": [
+    {
+      "arquivo": "assets/3d-art-osasco-logo-01.png",
+      "antes_kb": 1898.0,
+      "depois_kb": 1898.0,
+      "status": "mantido_png"
+    },
+    {
+      "arquivo": "assets/3d-art-osasco-foto-02.webp",
+      "antes_kb": 242.4,
+      "depois_kb": 136.8,
+      "status": "convertido_webp"
+    },
+    {
+      "arquivo": "assets/3d-art-osasco-foto-03.webp",
+      "antes_kb": 242.4,
+      "depois_kb": 136.8,
+      "status": "convertido_webp"
+    },
+    {
+      "arquivo": "assets/3d-art-osasco-foto-04.webp",
+      "antes_kb": 246.5,
+      "depois_kb": 190.0,
+      "status": "convertido_webp"
+    },
+    {
+      "arquivo": "assets/3d-art-osasco-foto-05.webp",
+      "antes_kb": 232.7,
+      "depois_kb": 138.4,
+      "status": "convertido_webp"
+    },
+    {
+      "arquivo": "assets/3d-art-osasco-foto-06.webp",
+      "antes_kb": 151.2,
+      "depois_kb": 131.3,
+      "status": "convertido_webp"
+    },
+    {
+      "arquivo": "assets/3d-art-osasco-foto-07.webp",
+      "antes_kb": 53.5,
+      "depois_kb": 36.4,
+      "status": "convertido_webp"
+    },
+    {
+      "arquivo": "assets/3d-art-osasco-logo-08.png",
+      "antes_kb": 1898.0,
+      "depois_kb": 1898.0,
+      "status": "mantido_png"
+    }
+  ]
+}
