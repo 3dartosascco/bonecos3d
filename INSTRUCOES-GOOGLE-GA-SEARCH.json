@@ -1,0 +1,18 @@
+{
+  "dominio": "https://www.3dartosasco.com.br/",
+  "google_analytics_instalado": "G-S31WXZSZ25",
+  "google_search_console_meta_tag_instalado_no_head": "<meta name=\"google-site-verification\" content=\"0TXg0vH7xFDc-b03_AS9pzr18RImY2ZaWVrRO924-e0\" />",
+  "google_search_console_dns_txt_para_verificacao_por_dominio": {
+    "tipo": "TXT",
+    "host_nome": "@ ou vazio, dependendo do provedor",
+    "valor": "google-site-verification=0TXg0vH7xFDc-b03_AS9pzr18RImY2ZaWVrRO924-e0"
+  },
+  "arquivos_para_subir_na_raiz": [
+    "index.html",
+    "CNAME",
+    ".nojekyll",
+    "robots.txt",
+    "sitemap.xml"
+  ],
+  "observacao": "A meta tag ajuda na verificação por prefixo de URL. Para propriedade de domínio no Search Console, use o registro TXT no DNS."
+}

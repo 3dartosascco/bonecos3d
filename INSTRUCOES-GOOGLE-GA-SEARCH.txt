@@ -1,0 +1,24 @@
+3D Art Osasco - Google Analytics e Search Console
+
+Domínio:
+https://www.3dartosasco.com.br/
+
+Google Analytics instalado:
+G-S31WXZSZ25
+
+Google Search Console:
+Meta tag incluída no <head>:
+<meta name="google-site-verification" content="0TXg0vH7xFDc-b03_AS9pzr18RImY2ZaWVrRO924-e0" />
+
+Para verificação por domínio/DNS, criar este registro no DNS:
+Tipo: TXT
+Host/Nome: @ ou vazio, dependendo do provedor
+Valor:
+google-site-verification=0TXg0vH7xFDc-b03_AS9pzr18RImY2ZaWVrRO924-e0
+
+Subir na raiz do GitHub Pages:
+index.html
+CNAME
+.nojekyll
+robots.txt
+sitemap.xml
