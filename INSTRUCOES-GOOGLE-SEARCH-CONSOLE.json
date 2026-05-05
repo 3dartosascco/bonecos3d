@@ -1,0 +1,15 @@
+{
+  "site_final": "https://www.3dartosasco.com.br/",
+  "arquivos_para_subir_na_raiz": [
+    "index.html",
+    "robots.txt",
+    "sitemap.xml"
+  ],
+  "google_search_console": [
+    "Adicione a propriedade https://www.3dartosasco.com.br/ no Google Search Console.",
+    "Escolha a verificação por arquivo HTML ou DNS.",
+    "Se escolher arquivo HTML, baixe o arquivo que o Google gerar e suba na raiz junto com index.html.",
+    "Depois de verificar, envie o sitemap: https://www.3dartosasco.com.br/sitemap.xml"
+  ],
+  "observacao": "A pasta assets está incluída por segurança, mas o index.html atual contém as imagens embutidas."
+}
